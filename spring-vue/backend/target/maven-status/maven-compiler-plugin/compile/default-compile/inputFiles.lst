@@ -1,0 +1,17 @@
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\Application.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\security\services\UserDetailsImpl.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\payload\request\LoginRequest.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\payload\response\MessageResponse.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\security\jwt\AuthTokenFilter.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\repository\PointRepository.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\security\services\UserDetailsServiceImpl.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\security\WebSecurityConfig.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\model\User.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\controller\AuthController.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\repository\UserRepository.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\security\jwt\AuthEntryPointJwt.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\model\Point.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\payload\response\JwtResponse.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\security\jwt\JwtUtils.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\payload\request\SignupRequest.java
+C:\ITMO\lab4web\spring-vue\backend\src\main\java\ru\gugan\controller\PointController.java
